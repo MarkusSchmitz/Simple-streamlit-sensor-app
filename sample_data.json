@@ -1,0 +1,767 @@
+[
+    {
+        "sensor": "Metadata",
+        "version": "3",
+        "recording time": "2023-04-16_15-08-37",
+        "platform": "android",
+        "appVersion": "1.15",
+        "sensors": "Microphone|Annotation",
+        "sampleRateMs": "100|"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657717973000000",
+        "seconds_elapsed": "0.173",
+        "dBFS": "-124"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718089000000",
+        "seconds_elapsed": "0.289",
+        "dBFS": "-69"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718207000000",
+        "seconds_elapsed": "0.407",
+        "dBFS": "-58"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718324000000",
+        "seconds_elapsed": "0.524",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718440000000",
+        "seconds_elapsed": "0.64",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718557000000",
+        "seconds_elapsed": "0.757",
+        "dBFS": "-43"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718674000000",
+        "seconds_elapsed": "0.873999755859375",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718792000000",
+        "seconds_elapsed": "0.992",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657718909000000",
+        "seconds_elapsed": "1.109",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719025000000",
+        "seconds_elapsed": "1.225",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719140000000",
+        "seconds_elapsed": "1.34",
+        "dBFS": "-55"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719257000000",
+        "seconds_elapsed": "1.457",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719375000000",
+        "seconds_elapsed": "1.575",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719492000000",
+        "seconds_elapsed": "1.692",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719608000000",
+        "seconds_elapsed": "1.808",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719725000000",
+        "seconds_elapsed": "1.925",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719843000000",
+        "seconds_elapsed": "2.043",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657719961000000",
+        "seconds_elapsed": "2.161",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720077000000",
+        "seconds_elapsed": "2.277",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720193000000",
+        "seconds_elapsed": "2.393",
+        "dBFS": "-43"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720308000000",
+        "seconds_elapsed": "2.508",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720426000000",
+        "seconds_elapsed": "2.625999755859375",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720543000000",
+        "seconds_elapsed": "2.743",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720659000000",
+        "seconds_elapsed": "2.859",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720775000000",
+        "seconds_elapsed": "2.975",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657720893000000",
+        "seconds_elapsed": "3.093",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721011000000",
+        "seconds_elapsed": "3.211",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721128000000",
+        "seconds_elapsed": "3.328",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721244000000",
+        "seconds_elapsed": "3.444",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721360000000",
+        "seconds_elapsed": "3.56",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721477000000",
+        "seconds_elapsed": "3.677",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721592000000",
+        "seconds_elapsed": "3.792",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721709000000",
+        "seconds_elapsed": "3.909",
+        "dBFS": "-48"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721826000000",
+        "seconds_elapsed": "4.025999755859375",
+        "dBFS": "-58"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657721942000000",
+        "seconds_elapsed": "4.142000244140625",
+        "dBFS": "-44"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722060000000",
+        "seconds_elapsed": "4.26",
+        "dBFS": "-43"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722176000000",
+        "seconds_elapsed": "4.376",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722295000000",
+        "seconds_elapsed": "4.495",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722409000000",
+        "seconds_elapsed": "4.609",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722525000000",
+        "seconds_elapsed": "4.725",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722643000000",
+        "seconds_elapsed": "4.843",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722759000000",
+        "seconds_elapsed": "4.959",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657722876000000",
+        "seconds_elapsed": "5.076",
+        "dBFS": "-60"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723006000000",
+        "seconds_elapsed": "5.206000244140625",
+        "dBFS": "-55"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723111000000",
+        "seconds_elapsed": "5.311",
+        "dBFS": "-48"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723227000000",
+        "seconds_elapsed": "5.427",
+        "dBFS": "-41"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723343000000",
+        "seconds_elapsed": "5.543",
+        "dBFS": "-41"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723460000000",
+        "seconds_elapsed": "5.66",
+        "dBFS": "-45"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723576000000",
+        "seconds_elapsed": "5.776",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723693000000",
+        "seconds_elapsed": "5.893",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723810000000",
+        "seconds_elapsed": "6.009999755859375",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657723926000000",
+        "seconds_elapsed": "6.126000244140625",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724044000000",
+        "seconds_elapsed": "6.244",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724161000000",
+        "seconds_elapsed": "6.361",
+        "dBFS": "-40"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724278000000",
+        "seconds_elapsed": "6.478000244140625",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724394000000",
+        "seconds_elapsed": "6.593999755859375",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724510000000",
+        "seconds_elapsed": "6.710000244140625",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724627000000",
+        "seconds_elapsed": "6.827",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724744000000",
+        "seconds_elapsed": "6.944",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724863000000",
+        "seconds_elapsed": "7.063",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657724977000000",
+        "seconds_elapsed": "7.177",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725095000000",
+        "seconds_elapsed": "7.295",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725212000000",
+        "seconds_elapsed": "7.412",
+        "dBFS": "-45"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725327000000",
+        "seconds_elapsed": "7.527",
+        "dBFS": "-48"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725444000000",
+        "seconds_elapsed": "7.644",
+        "dBFS": "-46"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725560000000",
+        "seconds_elapsed": "7.76",
+        "dBFS": "-46"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725677000000",
+        "seconds_elapsed": "7.877",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725795000000",
+        "seconds_elapsed": "7.995",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657725911000000",
+        "seconds_elapsed": "8.111",
+        "dBFS": "-46"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726029000000",
+        "seconds_elapsed": "8.229",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726144000000",
+        "seconds_elapsed": "8.344",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726261000000",
+        "seconds_elapsed": "8.461",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726379000000",
+        "seconds_elapsed": "8.579",
+        "dBFS": "-39"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726494000000",
+        "seconds_elapsed": "8.694000244140625",
+        "dBFS": "-43"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726610000000",
+        "seconds_elapsed": "8.809999755859375",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726729000000",
+        "seconds_elapsed": "8.929",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726845000000",
+        "seconds_elapsed": "9.045",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657726961000000",
+        "seconds_elapsed": "9.161",
+        "dBFS": "-48"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727077000000",
+        "seconds_elapsed": "9.277",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727194000000",
+        "seconds_elapsed": "9.393999755859374",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727311000000",
+        "seconds_elapsed": "9.511",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727429000000",
+        "seconds_elapsed": "9.629",
+        "dBFS": "-55"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727544000000",
+        "seconds_elapsed": "9.744",
+        "dBFS": "-51"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727660000000",
+        "seconds_elapsed": "9.86",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727777000000",
+        "seconds_elapsed": "9.977",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657727895000000",
+        "seconds_elapsed": "10.095",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728010000000",
+        "seconds_elapsed": "10.209999755859375",
+        "dBFS": "-47"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728128000000",
+        "seconds_elapsed": "10.328",
+        "dBFS": "-49"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728246000000",
+        "seconds_elapsed": "10.446000244140626",
+        "dBFS": "-45"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728362000000",
+        "seconds_elapsed": "10.561999755859375",
+        "dBFS": "-50"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728478000000",
+        "seconds_elapsed": "10.678000244140625",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728594000000",
+        "seconds_elapsed": "10.793999755859375",
+        "dBFS": "-58"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728710000000",
+        "seconds_elapsed": "10.910000244140624",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728829000000",
+        "seconds_elapsed": "11.029",
+        "dBFS": "-55"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657728945000000",
+        "seconds_elapsed": "11.145",
+        "dBFS": "-52"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729063000000",
+        "seconds_elapsed": "11.263",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729177000000",
+        "seconds_elapsed": "11.377",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729295000000",
+        "seconds_elapsed": "11.495",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729410000000",
+        "seconds_elapsed": "11.609999755859375",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729527000000",
+        "seconds_elapsed": "11.727",
+        "dBFS": "-62"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729644000000",
+        "seconds_elapsed": "11.844",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729761000000",
+        "seconds_elapsed": "11.961",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729877000000",
+        "seconds_elapsed": "12.077",
+        "dBFS": "-62"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657729994000000",
+        "seconds_elapsed": "12.193999755859375",
+        "dBFS": "-62"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730111000000",
+        "seconds_elapsed": "12.311",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730228000000",
+        "seconds_elapsed": "12.428",
+        "dBFS": "-60"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730344000000",
+        "seconds_elapsed": "12.544",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730477000000",
+        "seconds_elapsed": "12.677",
+        "dBFS": "-60"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730594000000",
+        "seconds_elapsed": "12.793999755859375",
+        "dBFS": "-61"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730711000000",
+        "seconds_elapsed": "12.911",
+        "dBFS": "-64"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730830000000",
+        "seconds_elapsed": "13.030000244140625",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657730946000000",
+        "seconds_elapsed": "13.145999755859375",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731062000000",
+        "seconds_elapsed": "13.262000244140625",
+        "dBFS": "-64"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731180000000",
+        "seconds_elapsed": "13.38",
+        "dBFS": "-59"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731297000000",
+        "seconds_elapsed": "13.497",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731412000000",
+        "seconds_elapsed": "13.612",
+        "dBFS": "-54"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731528000000",
+        "seconds_elapsed": "13.728",
+        "dBFS": "-62"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731645000000",
+        "seconds_elapsed": "13.845",
+        "dBFS": "-65"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731762000000",
+        "seconds_elapsed": "13.961999755859376",
+        "dBFS": "-65"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731880000000",
+        "seconds_elapsed": "14.08",
+        "dBFS": "-65"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657731997000000",
+        "seconds_elapsed": "14.197",
+        "dBFS": "-57"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657732112000000",
+        "seconds_elapsed": "14.312",
+        "dBFS": "-53"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657732229000000",
+        "seconds_elapsed": "14.429",
+        "dBFS": "-56"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657732348000000",
+        "seconds_elapsed": "14.548",
+        "dBFS": "-60"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657732477000000",
+        "seconds_elapsed": "14.677",
+        "dBFS": "-62"
+    },
+    {
+        "sensor": "Microphone",
+        "time": "1681657732595000000",
+        "seconds_elapsed": "14.795",
+        "dBFS": "-58"
+    }
+]
